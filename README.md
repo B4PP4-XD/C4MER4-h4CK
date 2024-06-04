@@ -34,8 +34,8 @@ apt-get -y install php openssh git wget
 
 ```
 git clone https://github.com/B4PP4-XD/C4MER4-h4CK
-cd CamPhish
-bash camphish.sh
+cd C4MER4-h4CK
+bash camera-scam.sh
 ```
 
 ## Change Log:
